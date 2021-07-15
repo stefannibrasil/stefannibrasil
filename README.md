@@ -1,4 +1,6 @@
-## Hello, I’m Stefanni Brasil. *Brasil* is my real name, how cool is that?! :)
+## Hello, I’m Stefanni Brasil.
+
+*Brasil* is my real name, how cool is that?! :)
 
 I am the co-creator of [hexdevs](https://www.hexdevs.com/), where I build programs that train developers for excellence. I am a self-taught developer, community strategist, avid reader, and cats lover. I write here on my blog, host live Open Source Thursdays coding sessions, and co-host the hexdevs podcast.
 
