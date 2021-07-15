@@ -1,11 +1,12 @@
-# Hi, I'm Stefanni Brasil :wave:
+## Hello, I’m Stefanni Brasil. *Brasil* is my real name, how cool is that?! :)
 
-I am a tech Blogger and Educator. I care about people and sharing knowledge throughout blogging and speaking. Mental health and cats, too 🐱 .
+I am the co-creator of [hexdevs](https://www.hexdevs.com/), where I build programs that train developers for excellence. I am a self-taught developer, community strategist, avid reader, and cats lover. I write here on my blog, host live Open Source Thursdays coding sessions, and co-host the hexdevs podcast.
 
-- I write about coding and career advice on [my blog](https://www.stefannibrasil.me/) ✍️
-- I educate developers by creating fun and engaging activities for developers at [hexdevs](https://www.hexdevs.com/) 💻
-- I practice Digital Lettering with Procreate 🖍️
-- I wrote a guide called [Spark your Runway with FIRE](https://gumroad.com/l/spark-your-runway-with-fire) about my experience with FIRE - Financial Independence Retire Early 💰
-- I write about plant-based diet at [The Plant-Based Diet Club](https://theplantbasedclub.substack.com/) newsletter 🌱.
+Besides that, I've been giving lightning talks at local meetups, on RubyConf Sao Paulo, and RailsConf.
 
+I am a huge believer that everyone is capable of achieving whatever they want for their lives. I'm driven by curiosity and kindness.
+
+Check out [my blog](https://www.stefannibrasil.me/about/) to learn more about me.
+
+Welcome! 👋
 
