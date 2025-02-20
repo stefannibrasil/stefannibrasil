@@ -3,7 +3,7 @@
 *Brasil* is my real name, how cool is that?! :)
 
 - Co-founder and educator at [hexdevs](https://www.hexdevs.com/)
-- Senior Developer
+- Senior Developer [@Kit](https://github.com/Kit)
 - Core maintainer of [faker-ruby](https://github.com/faker-ruby)
 - To read more about my work, visit my [page](https://www.stefannibrasil.me/about/)
 
